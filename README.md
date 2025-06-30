@@ -4,7 +4,7 @@
 
 ### Team Members
 
-* Paritosh Pandey - [@sidhya3112](https://www.github.com/ParitoshPandey29)
+* Paritosh Pandey - [@ParitoshPandey29](https://www.github.com/ParitoshPandey29)
 * Himanshu Shukla 
 * Gaurav Pandey  
   
