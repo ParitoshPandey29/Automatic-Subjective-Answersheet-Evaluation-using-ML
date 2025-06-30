@@ -4,10 +4,9 @@
 
 ### Team Members
 
-* Sidhya Jain - [@sidhya3112](https://www.github.com/sidhya3112)
-* Ananya Pawar - [@ananya-2311](https://www.github.com/ananya-2311)
-* Tejas Shinde - [@Tejas8101](https://www.github.com/Tejas8101)
-* Surabhi Chandane - [@surabhi175](https://www.github.com/surabhi175)
+* Paritosh Pandey - [@sidhya3112](https://www.github.com/ParitoshPandey29)
+* Himanshu Shukla 
+* Gaurav Pandey  
   
 ### Key Features
 
